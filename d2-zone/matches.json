@@ -1,0 +1,554 @@
+[
+    {
+        "Match ID": 8002555528,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2044,
+        "Radiant Team": "Lina, Juggernaut, Jakiro, Ursa, Clockwerk",
+        "Dire Team": "Dark Willow, Crystal Maiden, Earthshaker, Phantom Assassin, Warlock"
+    },
+    {
+        "Match ID": 8002488869,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2118,
+        "Radiant Team": "Bounty Hunter, Necrophos, Lich, Dragon Knight, Night Stalker",
+        "Dire Team": "Witch Doctor, Mars, Crystal Maiden, Broodmother, Phantom Assassin"
+    },
+    {
+        "Match ID": 8001628072,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2788,
+        "Radiant Team": "Templar Assassin, Rubick, Bristleback, Nyx Assassin, Medusa",
+        "Dire Team": "Shadow Demon, Bounty Hunter, Alchemist, Legion Commander, Abaddon"
+    },
+    {
+        "Match ID": 8001595390,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 1617,
+        "Radiant Team": "Templar Assassin, Sand King, Tinker, Sniper, Lion",
+        "Dire Team": "Alchemist, Sven, Dazzle, Grimstroke, Gyrocopter"
+    },
+    {
+        "Match ID": 8000532301,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2971,
+        "Radiant Team": "Treant Protector, Hoodwink, Ember Spirit, Drow Ranger, Centaur Warrunner",
+        "Dire Team": "Alchemist, Broodmother, Abaddon, Sand King, Ringmaster"
+    },
+    {
+        "Match ID": 8000445445,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2734,
+        "Radiant Team": "Vengeful Spirit, Techies, Nyx Assassin, Viper, Nature's Prophet",
+        "Dire Team": "Storm Spirit, Spectre, Abaddon, Slardar, Bounty Hunter"
+    },
+    {
+        "Match ID": 7999543243,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2840,
+        "Radiant Team": "Zeus, Snapfire, Ursa, Ogre Magi, Crystal Maiden",
+        "Dire Team": "Drow Ranger, Pudge, Lycan, Venomancer, Sand King"
+    },
+    {
+        "Match ID": 7996094974,
+        "Game Mode": 22,
+        "Result": "Win",
+        "Duration": 1969,
+        "Radiant Team": "Troll Warlord, Spirit Breaker, Ogre Magi, Marci, Necrophos",
+        "Dire Team": "Witch Doctor, Phantom Assassin, Timbersaw, Bounty Hunter, Meepo"
+    },
+    {
+        "Match ID": 7996029340,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2190,
+        "Radiant Team": "Pudge, Razor, Lion, Terrorblade, Vengeful Spirit",
+        "Dire Team": "Tiny, Silencer, Enigma, Witch Doctor, Troll Warlord"
+    },
+    {
+        "Match ID": 7995109299,
+        "Game Mode": 22,
+        "Result": "Win",
+        "Duration": 1736,
+        "Radiant Team": "Clockwerk, Sniper, Phantom Assassin, Snapfire, Venomancer",
+        "Dire Team": "Ogre Magi, Wraith King, Hoodwink, Legion Commander, Lifestealer"
+    },
+    {
+        "Match ID": 7994867459,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 4499,
+        "Radiant Team": "Shadow Demon, Dazzle, Monkey King, Lina, Weaver",
+        "Dire Team": "Phantom Assassin, Bloodseeker, Undying, Witch Doctor, Lion"
+    },
+    {
+        "Match ID": 7994669032,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 1879,
+        "Radiant Team": "Sniper, Rubick, Pudge, Grimstroke, Necrophos",
+        "Dire Team": "Monkey King, Bane, Queen of Pain, Crystal Maiden, Phantom Assassin"
+    },
+    {
+        "Match ID": 7994592284,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2269,
+        "Radiant Team": "Snapfire, Mars, Shadow Fiend, Ringmaster, Ember Spirit",
+        "Dire Team": "Medusa, Hoodwink, Abaddon, Jakiro, Luna"
+    },
+    {
+        "Match ID": 7994290004,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2309,
+        "Radiant Team": "Muerta, Lina, Kunkka, Luna, Pudge",
+        "Dire Team": "Necrophos, Rubick, Earth Spirit, Centaur Warrunner, Slark"
+    },
+    {
+        "Match ID": 7983022997,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 3295,
+        "Radiant Team": "Primal Beast, Pugna, Phantom Assassin, Dazzle, Lina",
+        "Dire Team": "Skywrath Mage, Vengeful Spirit, Bristleback, Ursa, Magnus"
+    },
+    {
+        "Match ID": 7982073252,
+        "Game Mode": 22,
+        "Result": "Win",
+        "Duration": 3103,
+        "Radiant Team": "Phantom Lancer, Shadow Shaman, Ogre Magi, Abaddon, Legion Commander",
+        "Dire Team": "Doom, Spectre, Nature's Prophet, Bounty Hunter, Outworld Destroyer"
+    },
+    {
+        "Match ID": 7981968245,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 3725,
+        "Radiant Team": "Rubick, Winter Wyvern, Sniper, Earthshaker, Faceless Void",
+        "Dire Team": "Legion Commander, Riki, Warlock, Techies, Bloodseeker"
+    },
+    {
+        "Match ID": 7976269205,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2325,
+        "Radiant Team": "Undying, Pudge, Puck, Spectre, Warlock",
+        "Dire Team": "Luna, Lifestealer, Hoodwink, Magnus, Sniper"
+    },
+    {
+        "Match ID": 7975783164,
+        "Game Mode": 22,
+        "Result": "Win",
+        "Duration": 2196,
+        "Radiant Team": "Hoodwink, Zeus, Kunkka, Abaddon, Gyrocopter",
+        "Dire Team": "Clinkz, Tusk, Lion, Winter Wyvern, Medusa"
+    },
+    {
+        "Match ID": 7975700993,
+        "Game Mode": 22,
+        "Result": "Win",
+        "Duration": 2112,
+        "Radiant Team": "Alchemist, Shadow Demon, Sniper, Underlord, Dark Seer",
+        "Dire Team": "Ringmaster, Lion, Queen of Pain, Monkey King, Luna"
+    },
+    {
+        "Match ID": 7974751777,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 3043,
+        "Radiant Team": "Drow Ranger, Ancient Apparition, Viper, Tiny, Hoodwink",
+        "Dire Team": "Mirana, Tusk, Magnus, Invoker, Disruptor"
+    },
+    {
+        "Match ID": 7974554217,
+        "Game Mode": 22,
+        "Result": "Win",
+        "Duration": 3259,
+        "Radiant Team": "Crystal Maiden, Medusa, Pudge, Juggernaut, Bounty Hunter",
+        "Dire Team": "Phantom Assassin, Warlock, Rubick, Snapfire, Sand King"
+    },
+    {
+        "Match ID": 7974393181,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 3209,
+        "Radiant Team": "Tinker, Doom, Broodmother, Luna, Nature's Prophet",
+        "Dire Team": "Spectre, Pugna, Invoker, Disruptor, Dawnbreaker"
+    },
+    {
+        "Match ID": 7974244065,
+        "Game Mode": 22,
+        "Result": "Win",
+        "Duration": 1673,
+        "Radiant Team": "Gyrocopter, Crystal Maiden, Zeus, Omniknight, Necrophos",
+        "Dire Team": "Riki, Lich, Phantom Assassin, Slardar, Juggernaut"
+    },
+    {
+        "Match ID": 7974069047,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 4323,
+        "Radiant Team": "Puck, Wraith King, Windranger, Anti-Mage, Lion",
+        "Dire Team": "Dazzle, Witch Doctor, Storm Spirit, Rubick, Drow Ranger"
+    },
+    {
+        "Match ID": 7964185958,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2636,
+        "Radiant Team": "Hoodwink, Ringmaster, Chaos Knight, Void Spirit, Earthshaker",
+        "Dire Team": "Medusa, Tusk, Centaur Warrunner, Dark Willow, Puck"
+    },
+    {
+        "Match ID": 7964092531,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2471,
+        "Radiant Team": "Clockwerk, Broodmother, Morphling, Puck, Disruptor",
+        "Dire Team": "Timbersaw, Silencer, Tiny, Necrophos, Sniper"
+    },
+    {
+        "Match ID": 7963974755,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2282,
+        "Radiant Team": "Phantom Assassin, Lifestealer, Earthshaker, Lich, Invoker",
+        "Dire Team": "Shadow Fiend, Ancient Apparition, Tidehunter, Void Spirit, Dark Willow"
+    },
+    {
+        "Match ID": 7962423248,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2666,
+        "Radiant Team": "Puck, Alchemist, Doom, Enchantress, Silencer",
+        "Dire Team": "Wraith King, Timbersaw, Ogre Magi, Dazzle, Bristleback"
+    },
+    {
+        "Match ID": 7962329130,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2110,
+        "Radiant Team": "Necrophos, Timbersaw, Rubick, Medusa, Nature's Prophet",
+        "Dire Team": "Hoodwink, Centaur Warrunner, Sand King, Shadow Shaman, Alchemist"
+    },
+    {
+        "Match ID": 7955692966,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 3948,
+        "Radiant Team": "Dragon Knight, Rubick, Sniper, Marci, Underlord",
+        "Dire Team": "Ogre Magi, Lion, Earthshaker, Shadow Shaman, Sand King"
+    },
+    {
+        "Match ID": 7955288001,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 3114,
+        "Radiant Team": "Ringmaster, Sniper, Bristleback, Disruptor, Dragon Knight",
+        "Dire Team": "Rubick, Luna, Invoker, Timbersaw, Zeus"
+    },
+    {
+        "Match ID": 7954609697,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 3894,
+        "Radiant Team": "Sniper, Witch Doctor, Drow Ranger, Ursa, Shadow Demon",
+        "Dire Team": "Pudge, Enchantress, Puck, Silencer, Dragon Knight"
+    },
+    {
+        "Match ID": 7953896452,
+        "Game Mode": 22,
+        "Result": "Win",
+        "Duration": 3051,
+        "Radiant Team": "Warlock, Vengeful Spirit, Necrophos, Puck, Phantom Assassin",
+        "Dire Team": "Oracle, Lina, Pudge, Shadow Fiend, Spirit Breaker"
+    },
+    {
+        "Match ID": 7953751757,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 3416,
+        "Radiant Team": "Dragon Knight, Pangolier, Snapfire, Luna, Treant Protector",
+        "Dire Team": "Puck, Night Stalker, Warlock, Hoodwink, Faceless Void"
+    },
+    {
+        "Match ID": 7953568645,
+        "Game Mode": 22,
+        "Result": "Win",
+        "Duration": 2356,
+        "Radiant Team": "Queen of Pain, Witch Doctor, Windranger, Earthshaker, Vengeful Spirit",
+        "Dire Team": "Sand King, Weaver, Tiny, Tusk, Huskar"
+    },
+    {
+        "Match ID": 7953214537,
+        "Game Mode": 22,
+        "Result": "Win",
+        "Duration": 3166,
+        "Radiant Team": "Bristleback, Zeus, Lion, Disruptor, Sven",
+        "Dire Team": "Beastmaster, Mirana, Drow Ranger, Kunkka, Grimstroke"
+    },
+    {
+        "Match ID": 7953068684,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2016,
+        "Radiant Team": "Juggernaut, Shadow Shaman, Tiny, Dragon Knight, Snapfire",
+        "Dire Team": "Weaver, Io, Rubick, Monkey King, Hoodwink"
+    },
+    {
+        "Match ID": 7952196128,
+        "Game Mode": 22,
+        "Result": "Win",
+        "Duration": 2176,
+        "Radiant Team": "Jakiro, Puck, Windranger, Rubick, Clockwerk",
+        "Dire Team": "Dragon Knight, Snapfire, Muerta, Techies, Marci"
+    },
+    {
+        "Match ID": 7952142927,
+        "Game Mode": 22,
+        "Result": "Win",
+        "Duration": 2071,
+        "Radiant Team": "Viper, Drow Ranger, Ogre Magi, Marci, Underlord",
+        "Dire Team": "Dragon Knight, Ringmaster, Snapfire, Bristleback, Lina"
+    },
+    {
+        "Match ID": 7952075378,
+        "Game Mode": 22,
+        "Result": "Win",
+        "Duration": 1862,
+        "Radiant Team": "Storm Spirit, Vengeful Spirit, Viper, Shadow Fiend, Sniper",
+        "Dire Team": "Lina, Phantom Assassin, Jakiro, Nature's Prophet, Ogre Magi"
+    },
+    {
+        "Match ID": 7951988716,
+        "Game Mode": 22,
+        "Result": "Win",
+        "Duration": 2337,
+        "Radiant Team": "Puck, Wraith King, Venomancer, Spectre, Ogre Magi",
+        "Dire Team": "Riki, Winter Wyvern, Dragon Knight, Sniper, Lina"
+    },
+    {
+        "Match ID": 7913656755,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 3678,
+        "Radiant Team": "Tinker, Chen, Tidehunter, Hoodwink, Weaver",
+        "Dire Team": "Sniper, Spectre, Wraith King, Rubick, Ringmaster"
+    },
+    {
+        "Match ID": 7892432912,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2240,
+        "Radiant Team": "Outworld Destroyer, Slark, Queen of Pain, Hoodwink, Lion",
+        "Dire Team": "Juggernaut, Witch Doctor, Spirit Breaker, Huskar, Warlock"
+    },
+    {
+        "Match ID": 7881005215,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 3072,
+        "Radiant Team": "Grimstroke, Lich, Doom, Phantom Assassin, Wraith King",
+        "Dire Team": "Enchantress, Outworld Destroyer, Luna, Phoenix, Abaddon"
+    },
+    {
+        "Match ID": 7880933748,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 1705,
+        "Radiant Team": "Skywrath Mage, Riki, Warlock, Visage, Magnus",
+        "Dire Team": "Crystal Maiden, Juggernaut, Lion, Mars, Silencer"
+    },
+    {
+        "Match ID": 7880646184,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2559,
+        "Radiant Team": "Phantom Assassin, Underlord, Rubick, Sand King, Ogre Magi",
+        "Dire Team": "Juggernaut, Winter Wyvern, Necrophos, Warlock, Wraith King"
+    },
+    {
+        "Match ID": 7877584787,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2237,
+        "Radiant Team": "Clinkz, Crystal Maiden, Rubick, Earthshaker, Anti-Mage",
+        "Dire Team": "Sniper, Undying, Slardar, Dark Willow, Bristleback"
+    },
+    {
+        "Match ID": 7877504039,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 1633,
+        "Radiant Team": "Witch Doctor, Viper, Zeus, Pudge, Weaver",
+        "Dire Team": "Phantom Assassin, Alchemist, Lion, Bristleback, Morphling"
+    },
+    {
+        "Match ID": 7877417070,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2333,
+        "Radiant Team": "Queen of Pain, Lina, Enigma, Phantom Assassin, Spirit Breaker",
+        "Dire Team": "Disruptor, Medusa, Rubick, Skywrath Mage, Centaur Warrunner"
+    },
+    {
+        "Match ID": 7877192916,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2281,
+        "Radiant Team": "Witch Doctor, Queen of Pain, Axe, Sniper, Ember Spirit",
+        "Dire Team": "Mirana, Lion, Wraith King, Puck, Vengeful Spirit"
+    },
+    {
+        "Match ID": 7877112635,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2609,
+        "Radiant Team": "Invoker, Sven, Spirit Breaker, Pudge, Sand King",
+        "Dire Team": "Phantom Assassin, Earthshaker, Disruptor, Warlock, Ember Spirit"
+    },
+    {
+        "Match ID": 7874908675,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 3962,
+        "Radiant Team": "Weaver, Silencer, Phantom Assassin, Zeus, Lion",
+        "Dire Team": "Night Stalker, Winter Wyvern, Ogre Magi, Outworld Destroyer, Phantom Lancer"
+    },
+    {
+        "Match ID": 7874655983,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2431,
+        "Radiant Team": "Monkey King, Phantom Assassin, Ogre Magi, Slardar, Vengeful Spirit",
+        "Dire Team": "Crystal Maiden, Tiny, Keeper of the Light, Death Prophet, Juggernaut"
+    },
+    {
+        "Match ID": 7873306573,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2755,
+        "Radiant Team": "Outworld Destroyer, Ogre Magi, Jakiro, Abaddon, Sniper",
+        "Dire Team": "Legion Commander, Crystal Maiden, Tiny, Anti-Mage, Clockwerk"
+    },
+    {
+        "Match ID": 7869886429,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 1988,
+        "Radiant Team": "Luna, Techies, Legion Commander, Necrophos, Crystal Maiden",
+        "Dire Team": "Tiny, Chaos Knight, Mirana, Snapfire, Grimstroke"
+    },
+    {
+        "Match ID": 7869548193,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2580,
+        "Radiant Team": "Bounty Hunter, Oracle, Phantom Lancer, Earthshaker, Storm Spirit",
+        "Dire Team": "Slardar, Rubick, Tiny, Juggernaut, Lion"
+    },
+    {
+        "Match ID": 7868117277,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 1877,
+        "Radiant Team": "Void Spirit, Magnus, Juggernaut, Pudge, Viper",
+        "Dire Team": "Lion, Enigma, Shadow Fiend, Alchemist, Crystal Maiden"
+    },
+    {
+        "Match ID": 7868048095,
+        "Game Mode": 22,
+        "Result": "Win",
+        "Duration": 2090,
+        "Radiant Team": "Ember Spirit, Phantom Lancer, Lion, Dark Seer, Lina",
+        "Dire Team": "Phantom Assassin, Visage, Venomancer, Slardar, Dark Willow"
+    },
+    {
+        "Match ID": 7867263852,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 1784,
+        "Radiant Team": "Witch Doctor, Clockwerk, Meepo, Phantom Assassin, Mirana",
+        "Dire Team": "Wraith King, Broodmother, Rubick, Legion Commander, Pudge"
+    },
+    {
+        "Match ID": 7867181120,
+        "Game Mode": 22,
+        "Result": "Win",
+        "Duration": 2830,
+        "Radiant Team": "Underlord, Leshrac, Zeus, Faceless Void, Lina",
+        "Dire Team": "Lion, Phantom Assassin, Crystal Maiden, Axe, Invoker"
+    },
+    {
+        "Match ID": 7866616831,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2407,
+        "Radiant Team": "Lina, Marci, Tinker, Spirit Breaker, Warlock",
+        "Dire Team": "Lich, Juggernaut, Puck, Hoodwink, Vengeful Spirit"
+    },
+    {
+        "Match ID": 7866565450,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2719,
+        "Radiant Team": "Tiny, Wraith King, Juggernaut, Warlock, Jakiro",
+        "Dire Team": "Sven, Bane, Axe, Pudge, Lion"
+    },
+    {
+        "Match ID": 7866235874,
+        "Game Mode": 22,
+        "Result": "Win",
+        "Duration": 2180,
+        "Radiant Team": "Phantom Lancer, Pudge, Dark Seer, Timbersaw, Witch Doctor",
+        "Dire Team": "Ember Spirit, Bounty Hunter, Venomancer, Ursa, Treant Protector"
+    },
+    {
+        "Match ID": 7866116805,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2276,
+        "Radiant Team": "Wraith King, Weaver, Venomancer, Vengeful Spirit, Dark Willow",
+        "Dire Team": "Tiny, Morphling, Enchantress, Lifestealer, Disruptor"
+    },
+    {
+        "Match ID": 7864656158,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 2237,
+        "Radiant Team": "Lina, Viper, Axe, Vengeful Spirit, Juggernaut",
+        "Dire Team": "Bristleback, Riki, Pudge, Faceless Void, Mirana"
+    },
+    {
+        "Match ID": 7863045345,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 3065,
+        "Radiant Team": "Primal Beast, Wraith King, Oracle, Weaver, Underlord",
+        "Dire Team": "Pudge, Chaos Knight, Ancient Apparition, Windranger, Dazzle"
+    },
+    {
+        "Match ID": 7862924889,
+        "Game Mode": 22,
+        "Result": "Win",
+        "Duration": 2845,
+        "Radiant Team": "Monkey King, Sand King, Phantom Lancer, Treant Protector, Silencer",
+        "Dire Team": "Slardar, Rubick, Witch Doctor, Phantom Assassin, Invoker"
+    },
+    {
+        "Match ID": 7858052620,
+        "Game Mode": 22,
+        "Result": "Loss",
+        "Duration": 1736,
+        "Radiant Team": "Clinkz, Pudge, Hoodwink, Troll Warlord, Underlord",
+        "Dire Team": "Tiny, Shadow Shaman, Visage, Juggernaut, Bristleback"
+    }
+]
